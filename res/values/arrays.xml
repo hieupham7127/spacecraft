@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mode">
+        <item>EASY</item>
+        <item>NORMAL</item>
+        <item>HARD</item>
+        <item>*OH! DONT BE SILLY*</item>
+    </string-array>
+</resources>
